@@ -1,0 +1,13 @@
+// enums/board-category.enum.ts
+export enum BoardCategory {
+  DEFAULT = 'DEFAULT',
+  NOTICE = 'NOTICE',
+  EVENT = 'EVENT',
+  PANEL = 'PANEL',
+  SPORTS_ANALYSIS = 'SPORTS_ANALYSIS',
+  SPORTS_INFO = 'SPORTS_INFO',
+  FREE_BOARD = 'FREE_BOARD',
+  HUMOR_PHOTO = 'HUMOR_PHOTO',
+  EYE_CLEANSING = 'EYE_CLEANSING',
+  ALL_BOARD = 'ALL_BOARD',
+}
